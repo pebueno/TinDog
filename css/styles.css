@@ -157,6 +157,13 @@ p {
 
 #footer i {
   margin: 20px 10px;
+  color: #8f8f8f;
+
+}
+
+
+#footer i:hover {
+  color: #ff4c68;
 }
 
 @media (max-width: 1028px) {
