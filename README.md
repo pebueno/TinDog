@@ -1,5 +1,3 @@
-TinDog Starting Files
-
 # TinDog
 Use this beautiful page to find the love of your dog's life.
 
